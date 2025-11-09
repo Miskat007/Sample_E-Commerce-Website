@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Ayesha Rahman",
+    "rating": 5,
+    "comment": "Excellent products and smooth checkout experience!",
+    "date": "2025-10-15"
+  },
+  {
+    "name": "Tanvir Alam",
+    "rating": 4,
+    "comment": "Great variety of items, delivery was fast.",
+    "date": "2025-10-20"
+  },
+  {
+    "name": "Rifat Hasan",
+    "rating": 5,
+    "comment": "The UI is clean and dark mode works perfectly!",
+    "date": "2025-10-28"
+  },
+  {
+    "name": "Miskatul Islam",
+    "rating": 3,
+    "comment": "Good selection but could improve on customer service.",
+    "date": "2025-11-02"
+  },
+  {
+    "name": "Habibul  Hasan",
+    "rating": 4,
+    "comment": "Overall a satisfying shopping experience.",
+    "date": "2025-11-10"
+
+  }
+]
